@@ -7,6 +7,8 @@
 - 💬 You can also ask me anything about Node.js or any of my repos (feel free to clone and do PRs as well). By the way, I'm mentoring Node.js developers.
 - 📫 Feel free to contact me by email: [soslanaldatov@gmail.com](mailto:soslanaldatov@gmail.com).
 
+[![An image of @sptmru's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sptmru)](https://holopin.io/@sptmru)
+
 <!--
 **sptmru/sptmru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
