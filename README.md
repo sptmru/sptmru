@@ -4,7 +4,7 @@
 
 - 🔭 Currently, I work as a freelance Node.js developer and VoIP expert.
 - 🔧 I'm also a staunch advocate of DevOps practices.
-- 📳 I am deeply into telecommunications, VoIP and video conferencing stuff, so feel free to reach out to me with anything related.
+- 📳 I am deeply into telecommunications, video conferencing and VoIP / SIP stuff.
 - 👯 I'm open to collaborations and freelance or part-time opportunities.
 - 📫 Hit me up by email: [soslanaldatov@gmail.com](mailto:soslanaldatov@gmail.com).
 
