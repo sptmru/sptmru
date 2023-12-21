@@ -1,10 +1,11 @@
 ### Hi, I'm [Soslan](https://sptm.dev)👋. Nice to meet you here! 
 
-#### I'm a software engineer, currently located in Tbilisi, Georgia.
+#### I'm a software engineer based in Tbilisi, Georgia.
 
-- 🔭 I work as a freelance Node.js developer / VoIP expert, and I'm a big fan of DevOps practices.
-- 📳 I am deeply into telecommunications / VoIP / video conferencing stuff, so feel free to contact me with anything related.
-- 👯 You can also contact me with any kind of collaborations and offers.
+- 🔭 Currently, I work as a freelance Node.js developer and VoIP expert.
+- 🔧 I'm also a staunch advocate of DevOps practices.
+- 📳 I am deeply into telecommunications, VoIP and video conferencing stuff, so feel free to reach out to me with anything related.
+- 👯 I'm open to collaborations and freelance or part-time opportunities.
 - 📫 Hit me up by email: [soslanaldatov@gmail.com](mailto:soslanaldatov@gmail.com).
 
 <!--
