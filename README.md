@@ -2,7 +2,7 @@
 
 #### I'm a software engineer, currently located in Tbilisi, Georgia.
 
-- 🔭 Now I'm working as a freelance Node.js developer / VoIP expert, I also like Golang, Python and Haskell, and I'm a big fan of DevOps practices.
+- 🔭 I'm working as a freelance Node.js developer / VoIP expert, I also like Golang, Python and Haskell, and I'm a big fan of DevOps practices.
 - 📳 I am deeply into telecommunications / VoIP / video conferencing stuff, so feel free to contact me with anything related.
 - 👯 You can also contact me with any kind of collaborations and offers.
 - 📫 Hit me up by email: [soslanaldatov@gmail.com](mailto:soslanaldatov@gmail.com).
