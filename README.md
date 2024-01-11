@@ -2,7 +2,7 @@
 
 #### I'm a software engineer based in Tbilisi, Georgia.
 
-- 🔭 Currently, I work as a freelance Node.js developer and VoIP expert.
+- 🔭 Currently, I work as a freelance software engineer and VoIP expert.
 - 🔧 I'm also a staunch advocate of DevOps practices.
 - 📳 I am deeply into telecommunications, video conferencing and VoIP stuff.
 - 👯 I'm open to collaborations and freelance or part-time opportunities.
